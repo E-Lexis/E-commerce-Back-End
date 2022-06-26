@@ -2,6 +2,8 @@
 
 ## Description
 
+The goal of this assignment is to use Node.js, Express.js, MySQL2, and Sequelize to create the back-end for an online retailer.
+
 ## User Story
 
 ```
@@ -25,3 +27,10 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
+
+## App Walkthrough
+
+A walkthrough video of how to set up the database and test the routes can be found [here](https://drive.google.com/file/d/1bo8wLK3s8NM8528Dt0nlJyyM17QnCBhO/view).
+
+
+
